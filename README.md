@@ -46,10 +46,6 @@ Network Monitor Pro est une application de surveillance réseau complète dével
 - **Gestion Firewall** : Guide pour bloquer les IPs suspectes
 - **Analyse par service** : Classification HTTP, HTTPS, SSH, DNS, etc.
 
-## 🖥️ Captures d'Écran
-
-> *Interface moderne avec thème sombre professionnel*
-
 ## 🚀 Installation
 
 ### Prérequis
