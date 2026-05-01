@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-yellow.svg)
 ![PyQt](https://img.shields.io/badge/PyQt-6-blue.svg)
 
@@ -184,15 +183,12 @@ Le projet est modulaire pour faciliter la maintenance :
 2. **Nouveau filtre** : Ajouter dans `window.py` → `_populate_connections()`
 3. **Nouvelle alerte** : Modifier `alerts.py` → `check_alerts()`
 
-## 📄 Licence
-
-Ce projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## 👤 Auteur
 
 **Aymezia**
-- 🌐 Site web : [https://Aymzia.cc](https://Aymzia.cc)
-- 📧 Email : contact@aymzia.cc
+- 🌐 Site web : [https://Aymezia.cc](https://Aymezia.cc)
+- 📧 Email : contact@aymezia.cc
 
 ## 🤝 Contribution
 
@@ -233,7 +229,7 @@ Si vous rencontrez un bug, veuillez ouvrir une issue en incluant :
 
 <div align="center">
 
-**Network Monitor Pro** - Développé avec ❤️ par [Aymezia](https://Aymzia.cc)
+**Network Monitor Pro** - Développé avec ❤️ par [Aymezia](https://Aymezia.cc)
 
 ⭐ N'oubliez pas d'étoiler ce dépôt si vous l'aimez ! ⭐
 
