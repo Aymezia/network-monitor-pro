@@ -8,7 +8,7 @@
 
 **Analyseur de Trafic Réseau Ultra-Complet**
 
-[![Aymezia](https://img.shields.io/badge/Developed%20by-Aymezia-purple.svg)](https://Aymzia.cc)
+[![Aymezia](https://img.shields.io/badge/Developed%20by-Aymezia-purple.svg)](https://Aymezia.cc)
 
 </div>
 
