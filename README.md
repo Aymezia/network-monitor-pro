@@ -1,4 +1,4 @@
-# 🌐 Network Monitor Pro
+# 🌐 Zia-Network-Monitor
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ## 📋 Description
 
-Network Monitor Pro est une application de surveillance réseau complète développée en Python avec PyQt6. Elle offre une interface graphique moderne et intuitive pour analyser en temps réel le trafic réseau, surveiller les connexions actives, détecter les intrusions et gérer les alertes de sécurité.
+Zia Network Monitor est une application de surveillance réseau complète développée en Python avec PyQt6. Elle offre une interface graphique moderne et intuitive pour analyser en temps réel le trafic réseau, surveiller les connexions actives, détecter les intrusions et gérer les alertes de sécurité.
 
 ## ✨ Fonctionnalités
 
