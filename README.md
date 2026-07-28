@@ -57,8 +57,8 @@ Zia Network Monitor est une application de surveillance réseau complète dével
 
 ```bash
 # Cloner le dépôt
-git clone[ https://github.com/Aymezia/network-monitor-pro.git](https://github.com/Aymezia/Zia-Network-Monitor.git)
-cd network-monitor-pro
+git clone https://github.com/Aymezia/Zia-Network-Monitor.git
+cd Zia-Network-Monitor
 
 # Installer les dépendances
 pip install PyQt6 psutil
